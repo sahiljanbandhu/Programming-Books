@@ -1,7 +1,7 @@
 # Programming-Books
-Contain all books of programming language
-Contain all books of database
-Contain all books of frameworks
+Contain all books of programming language.
+Contain all books of database.
+Contain all books of frameworks.
 ### **LIST OF ALL Books:**
 _
 1. Algorithms,
@@ -52,5 +52,5 @@ _
 46. VBA,
 47.  Visual Basic NET, 
 48. XAMARIN_
-_
+
 **_ BY : SAHIL JANBANDHU_**
